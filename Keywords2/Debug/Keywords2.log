@@ -1,0 +1,7 @@
+﻿  Keywords2.cpp
+D:\Visual Studio Projects\Keywords2\Keywords2.cpp(20,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Visual Studio Projects\Keywords2\Keywords2.cpp(135,35): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio Projects\Keywords2\Keywords2.cpp(216,35): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio Projects\Keywords2\Keywords2.cpp(292,35): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio Projects\Keywords2\Keywords2.cpp(381,23): warning C4018: '<': signed/unsigned mismatch
+  Keywords2.vcxproj -> D:\Visual Studio Projects\Keywords2\Debug\Keywords2.exe
